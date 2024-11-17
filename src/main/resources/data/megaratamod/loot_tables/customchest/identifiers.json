@@ -1,0 +1,7 @@
+{
+  "minecraft:desert": ["minecraft:chests/desert_pyramid",
+    "minecraft:chests/buried_treasure"],
+  "minecraft:plains": ["minecraft:chests/simple_dungeon","minecraft:chests/bastion_treasure"],
+  "minecraft:badlands": ["minecraft:chests/abandoned_mineshaft"],
+  "default": ["minecraft:chests/ruined_portal"]
+}
